@@ -1,7 +1,8 @@
-- 👋 Hi, I’m El
+# 👋 Hi, I’m HexEl
+## Fullstack Software Developer
 - 👀 I’m interested in Programming, Problem Solving
-- 🌱 I’m currently learning Flask and Django
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 🌱 I’m currently learning Flask, FastAPI, Django with a little bit of React
+- 💞️ I’m looking to collaborate on Software or web Development Projects
 - 📫 How to reach me elijahdenis540@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: The name ‘Python’ isn’t inspired by the snake, but by the British comedy series 'Monty Python's Flying Circus'.🐍😂
