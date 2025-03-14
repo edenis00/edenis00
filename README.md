@@ -1,5 +1,5 @@
 # 👋 Hi, I’m HexEl
-## Fullstack Software Developer
+## Fullstack Software Engineer
 - 👀 I’m interested in Programming, Problem Solving
 - 🌱 I’m currently learning Flask, FastAPI, Django with a little bit of React
 - 💞️ I’m looking to collaborate on Software or web Development Projects
