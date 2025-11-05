@@ -1,9 +1,26 @@
-# 👋 Hi, I’m HexEl
-## Fullstack Software Engineer
-- 👀 I’m interested in Programming, Problem Solving
-- 🌱 I’m currently learning Flask, FastAPI, Django with a little bit of React
-- 💞️ I’m looking to collaborate on Software or web Development Projects
-- 📫 How to reach me elijahdenis540@gmail.com
+# Hi, I'm Elijah 
+
+I'm a backend-focused developer expanding into full-stack development.  
+I build efficient, scalable, and data-driven applications using **Python**, **FastAPI**, **Django**, and **PostgreSQL**.  
+
+### What I'm Working On
+- Developing a **Finance Tracker Application** to help users manage and visualize their income and expenses.  
+- Learning **React** to strengthen my frontend skills and become a more complete full-stack engineer.  
+- Exploring **Docker**, **CI/CD**, and **cloud deployment** to improve backend scalability.
+
+### What I'm Learning
+- Advanced API architecture and design patterns  
+- Frontend integration with React and Tailwind CSS  
+- Automation and background task management with Celery
+
+### Tech Stack
+**Languages:** Python, JavaScript  
+**Backend:** FastAPI, Django REST Framework  
+**Frontend:** React (learning)  
+**Database:** PostgreSQL, SQLite  
+**Tools:** Docker, Git, CI/CD, Render, Railway  
+
+- 📫 How to reach me edenis0072@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: The name ‘Python’ isn’t inspired by the snake, but by the British comedy series 'Monty Python's Flying Circus'.🐍😂
 
