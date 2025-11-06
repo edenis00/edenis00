@@ -20,9 +20,9 @@ I build efficient, scalable, and data-driven applications using **Python**, **Fa
 **Database:** PostgreSQL, SQLite  
 **Tools:** Docker, Git, CI/CD, Render, Railway  
 
-- 📫 How to reach me edenis0072@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: The name ‘Python’ isn’t inspired by the snake, but by the British comedy series 'Monty Python's Flying Circus'.🐍😂
+-  How to reach me elijahdenis540@gmail.com
+-  Pronouns: He
+-  Fun fact: The name ‘Python’ isn’t inspired by the snake, but by the British comedy series 'Monty Python's Flying Circus'.🐍😂
 
 <!---
 edenis00/edenis00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
