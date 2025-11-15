@@ -4,12 +4,12 @@
   <img src="https://komarev.com/ghpvc/?username=edenis00&style=flat&color=grey" alt="Elijah Denis" />
 </p>
 I'm a backend-focused developer expanding into full-stack development.  
-I build efficient, scalable, and data-driven applications using **Python**, **FastAPI**, **Django**, and **PostgreSQL**.  
+I build efficient, scalable, and data-driven applications using Python, FastAPI, Django, and PostgreSQL.  
 
 ### What I'm Working On
-- Developing a **Finance Tracker Application** to help users manage and visualize their income and expenses.  
-- Learning **React** to strengthen my frontend skills and become a more complete full-stack engineer.  
-- Exploring **Docker**, **CI/CD**, and **cloud deployment** to improve backend scalability.
+- Developing a Finance Tracker Application to help users manage and visualize their income and expenses.  
+- Learning React to strengthen my frontend skills and become a more complete full-stack engineer.  
+- Exploring Docker, CI/CD, and cloud deployment to improve backend scalability.
 
 ### What I'm Learning
 - Advanced API architecture and design patterns  
