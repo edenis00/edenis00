@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Elijah </h1>
 <h3 align="center"> Fullstack Software Engineer</h3>
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=edenis00&style=flat&color=grey)
+  <img src="https://komarev.com/ghpvc/?username=edenis00&style=flat&color=grey" alt="Elijah Denis" />
 </p>
 I'm a backend-focused developer expanding into full-stack development.  
 I build efficient, scalable, and data-driven applications using **Python**, **FastAPI**, **Django**, and **PostgreSQL**.  
